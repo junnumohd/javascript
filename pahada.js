@@ -9,4 +9,12 @@
 // }
 
 
-
+for(var i=1; i<=10; i++){
+    var result= 7*i;
+    var modulo= result %2;
+    if(module === 0){
+        console.log(result, "--even");
+    }else{
+        console.log(result, "--odd");
+    }
+}
