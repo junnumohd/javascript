@@ -17,9 +17,16 @@
 //     }
 
 // }
-var x = 10000
-var total= 0;
-for(var i=1; i<=x; i++){
-    total= total+i;
+// var x = 10
+
+// var total= 0;
+// for(var i=1; i<=x; i++){
+//     total= total+i;
+// }
+// console.log(total);
+var total=0;
+var arr = [12,33,11,29,34,99,78,76,55,75]
+for(var i=0; i<arr.length; i++){
+    total= total+arr[i];
 }
-console.log(total);
+    console.log(total);
