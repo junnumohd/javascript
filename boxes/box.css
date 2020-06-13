@@ -1,5 +1,6 @@
 .box {
     width: 300px;
+    float: left;
     height: 180px;
     margin: 15px;
     padding: 10px;
