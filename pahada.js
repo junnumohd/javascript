@@ -18,16 +18,22 @@
 //         console.log(result, "--odd");
 //     }
 // }
-var pahada= 25;
-for(var i=1; i<=10; i++){
-    var result= pahada*i;
-    console.log(result);
+// var pahada= 25;
+// for(var i=1; i<=10; i++){
+//     var result= pahada*i;
+//     console.log(result);
+
+var arr= [4,6,12,19,13,20,3,22,7]
+var max=0;
+for(var i=0; i<arr.length; i++){
+    if(arr[i]>max){
+        max = arr[i];
+
+    }
+    
 }
-// var arr= [4,6,12,19,13,20.9,3,22,7]
-// var total = 0;
-// for(var i=0; i<arr.length; i++){
-//     if(arr[i] > 10){
-//         total = total + arr[i]
-//     }
-// }
-// console.log(total);
+console.log(max);
+
+
+   
+    
