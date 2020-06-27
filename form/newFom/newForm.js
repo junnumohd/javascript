@@ -31,7 +31,7 @@ function saveChanges(){
         }
     }
     var data = {};
-    data.firstName = firstName;
+    data.firstName = firstName;// data["firstName"] = firstName
     data.lastName = lastName;
     data.gender = gender;
     data.college = college;

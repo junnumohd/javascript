@@ -24,13 +24,13 @@
 //     return table;
 // }
 // var x = pahada(20,);
-// console.log(x);
-function pahada(a){
-    var table=[];
-    for(var i=1; i<=10; i++){
-        table[i-1] = a*i;
-    }
-    return table;
-}
-var x = pahada(12);
-    console.log(x);
+// // console.log(x);
+// function pahada(a){
+//     var table=[];
+//     for(var i=1; i<=10; i++){
+//         table[i-1] = a*i;
+//     }
+//     return table;
+// }
+// var x = pahada(12);
+//     console.log(x);

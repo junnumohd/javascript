@@ -1,12 +1,11 @@
-var a = 12;
+function concateArray(arr1, arr2){
+    if(!Array.isArray(arr1)){
+        return;
+    }
+    var arr = [];
+    for(var i = 0 ; i < arr1.length ; i++){
+        arr.push(arr1[i])
+    }
+}
 
-a = a + a;
-
-var b = 2 + a;
-
-var c = b;
-
-c = c + b +a;
-
-console.log(a, b, c)
-
+concateArray()
