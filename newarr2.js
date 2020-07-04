@@ -18,4 +18,5 @@ var hob = employee.getHobbies();
 var funHob = employee.getHobbies
 var name = employee.age;
 var age = employee.name;
+console.log("zubair1")
 

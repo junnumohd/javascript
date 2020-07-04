@@ -6,5 +6,5 @@ function search(arr,num){
     }
     return false;
 }
-var x =search([1,2,3,4,5,6], 1);
+var x =search([1,2,3,4,5,6], 10);
 console.log(x);

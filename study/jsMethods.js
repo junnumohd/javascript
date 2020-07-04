@@ -6,6 +6,7 @@ function typeOp(){
     var d = false; //boolean
     var e = [];
     var f = null;
-    console.log(typeof f)
+    console.log(typeof e)
 }
 typeOp();
+

@@ -6,7 +6,7 @@ ar[3] = "bhabhi";
 ar[4] = "ravi";
 
 for (var i = 0 ; i < ar.length;  i++) {
-    if( ar[i] === "zohaan"){
+    if( ar[i] === "zohaan1"){
         console.log("zohan mil gaya")
     }
 }
