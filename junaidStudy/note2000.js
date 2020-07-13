@@ -1,4 +1,4 @@
-// function amount2k(amount){
+ // function amount2k(amount){
 // 	var note2000 = 0;
 // 	if(amount > 2000){
 // 		var divide = amount/2000;
@@ -25,7 +25,7 @@
 // console.log(b);
 function totalPercent(subjects, fullMarksPerSubjects){
 	var totalMarks = 0;
-	for(var i = 0; i < subjects.length; i++){
+for(var i = 0; i < subjects.length; i++){
 		totalMarks = totalMarks + subjects[i];
 	}
 	var fullMarks = subjects.length * fullMarksPerSubjects;
@@ -35,3 +35,4 @@ function totalPercent(subjects, fullMarksPerSubjects){
 }
 var f = totalPercent([58,53,38,45,52,54],100);
 console.log(f);
+ 

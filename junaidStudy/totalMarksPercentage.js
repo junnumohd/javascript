@@ -21,4 +21,4 @@ function starPrint(n){
 	}
 	console.log(star)
 }
-starPrint(6);
+starPrint(5);
