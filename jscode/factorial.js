@@ -16,8 +16,8 @@
 //     arr[i]= arr[i]*arr[i];
 //     console.log(arr[i]);
 // }
-var pahada = 23;
-for(var i=; i<=10; i++){
+var pahada = 2;
+for(var i=1; i<=10; i++){
     var result= pahada*i;
     console.log(result);
 }
