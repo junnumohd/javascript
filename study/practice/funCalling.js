@@ -8,7 +8,7 @@ var callback = function(a){ // 44
     return a;
 }
 
-var timeFunction = function(a, fun1, fun2){  // 44 / callback // collee
+var timeFunction = function(a, fun1, fun2){  // 44 / callback // collee 
     a = fun1(a) // 88
     a = a + 2 // 90
     a = fun2(a); // 92

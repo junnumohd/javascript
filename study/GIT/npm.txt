@@ -1,0 +1,5 @@
+1 - npm install
+2 - npm start
+
+// if you want to install any other library
+1 - npm install --save <library>
